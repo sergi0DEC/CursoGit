@@ -4,4 +4,5 @@ import modulos_disenio
 print("Hola Git")
 
 modulos_disenio.pantalla()
+modulos_disenio.segundoDisenio()
 
