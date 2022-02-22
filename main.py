@@ -6,5 +6,5 @@ print("Hola Git")
 modulos_disenio.pantalla()
 modulos_disenio.segundoDisenio()
 
-#Linea agregada desde GitHub
+#Linea agregada desde GitHub :)
 modulos_disenio.DisenioGitHub()
